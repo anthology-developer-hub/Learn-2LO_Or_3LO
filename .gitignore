@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+pyproject.toml
+.python-version
+poetry.lock
+Config.py
